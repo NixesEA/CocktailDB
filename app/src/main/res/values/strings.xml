@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cocktails</string>
+    <string name="random_screen_nav_label">I\'m luckie!</string>
+    <string name="search_screen_nav_label">Search</string>
+</resources>
